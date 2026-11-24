@@ -22,7 +22,9 @@ with a fresh close ("before your breath is spent" — not the field's
 spent "before the ink dries"). One vehicle, no list, no word coined
 after 1800, nothing literally false: a loom does weave separate
 threads into one cloth, a spoken word can be heard in every house at
-once, and a question put to the internet does find its answer. One
+once, and a question put to the internet does find its answer — the
+search half of the internet, the part v2's "greatest library" stood
+for, now named as an action instead of a quantity. One
 sentence, 179 characters. The program asserts the 200-character cap
 and the single full stop before it writes.
 """
